@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni00khgoog_0010.png"; bbox 0 0 2946 5550; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 452 1710 1010 1799">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 452 1710 1010 1799">
+     <span class='ocr_line' id='line_1_1' title="bbox 452 1710 1010 1799; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 452 1710 719 1798; x_wconf 83' lang='lat' dir='ltr'><strong>EPISTOLA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 749 1712 1010 1799; x_wconf 82' lang='lat' dir='ltr'><strong>EDITORIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 143 2261 1306 2425">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 143 2261 1306 2425">
+     <span class='ocr_line' id='line_1_2' title="bbox 143 2261 1306 2425; baseline 0 -26"><span class='ocrx_word' id='word_1_3' title='bbox 143 2261 729 2399; x_wconf 84' lang='lat' dir='ltr'><strong>LUDOLPHUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 781 2266 1306 2425; x_wconf 79' lang='lat' dir='ltr'>DISSENIUNL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 225 2655 1244 2709">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 225 2655 1244 2709">
+     <span class='ocr_line' id='line_1_3' title="bbox 225 2655 1244 2709; baseline 0 -6"><span class='ocrx_word' id='word_1_5' title='bbox 225 2658 451 2703; x_wconf 67' lang='lat' dir='ltr'><strong>vulbosommss</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 464 2656 637 2701; x_wconf 72' lang='lat' dir='ltr'>noc&#39;roRssM</span> <span class='ocrx_word' id='word_1_7' title='bbox 649 2656 832 2709; x_wconf 69' lang='lat' dir='ltr'><strong>Annvmouss</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 844 2655 1033 2703; x_wconf 66' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1050 2657 1244 2709; x_wconf 62' lang='lat' dir='ltr'><strong>mmmmm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 472 2880 993 2943">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 472 2880 993 2943">
+     <span class='ocr_line' id='line_1_4' title="bbox 472 2880 993 2943; baseline -0.002 -9"><span class='ocrx_word' id='word_1_10' title='bbox 472 2882 702 2934; x_wconf 82' lang='lat' dir='ltr'>PROFESSOREM</span> <span class='ocrx_word' id='word_1_11' title='bbox 720 2880 993 2943; x_wconf 76' lang='lat' dir='ltr'><strong>GO&#39;l&#39;I&#39;INGENSEM,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1478 5550">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1478 5550">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1478 5550; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1478 5550; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
